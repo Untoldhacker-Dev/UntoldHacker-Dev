@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/untoldhacker" target="blank"><img src="https://img.shields.io/twitter/follow/untoldhacker?logo=twitter&style=for-the-badge" alt="untoldhacker" /></a> </p>
 
-- 🔭 I’m currently working on [BJS Codes](app.bots.business)
+- 🔭 I’m currently working on [BMS Codes](botmate.app)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Bots.Business**
+- 👯 I’m looking to collaborate on **BotMate.App**
 
 - 🤝 I’m looking for help with **Python**
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [t.me/UnitedProgrammers](t.me/UnitedProgrammers)
 
-- 💬 Ask me about **Bots.Business**
+- 💬 Ask me about **Telegram Bots**
 
 - 📫 How to reach me **adityakp.dev@gmail.com**
 
