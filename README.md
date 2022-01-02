@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Telegram Bots**
 
-- 📫 How to reach me **adityakp.dev@gmail.com**
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-adityakp.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakp.dev@gmail.com)](mailto:adityakp.dev@gmail.com)
 
 - 📄 Know about my experiences [t.me/UnitedProgrammrs](t.me/UnitedProgrammrs)
 
