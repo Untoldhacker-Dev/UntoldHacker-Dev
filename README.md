@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/untoldhacker" target="blank"><img src="https://img.shields.io/twitter/follow/untoldhacker?logo=twitter&style=for-the-badge" alt="untoldhacker" /></a> </p> -->
 
-- 📫 How to reach me **adityakp.dev@gmail.com**
+- 📫 How to reach me **adityakp.dev@adityakp.dev**
 - Telegram : _https://untoldhacker.t.me_
 
 
